@@ -2,7 +2,7 @@
 
 A small web login system built to demonstrate core authentication and network-security practices. Academic project, International Islamic University Chittagong (IIUC).
 
-![System diagram](fan_system_diagram.png)
+<img src="login_security_flow.png" width="450">
 
 ## Features
 
