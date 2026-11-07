@@ -2,6 +2,8 @@
 
 A small web login system built to demonstrate core authentication and network-security practices. Academic project, International Islamic University Chittagong (IIUC).
 
+![System diagram](fan_system_diagram.png)
+
 ## Features
 
 | Security measure | How it is done |
